@@ -8,7 +8,7 @@ About the stack?
 - IntelliJ IDE (https://www.jetbrains.com/idea/)
 - SpringBoot Framework (https://spring.io/projects/spring-boot)
 - Spring Initializr (https://start.spring.io/)
-  <Dependencies>
+  ~ Dependencies
   - spring-boot-starter-web (https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web)
   - spring-boot-starter-test (https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test)
   - lombok (https://mvnrepository.com/artifact/org.projectlombok/lombok/1.18.26)
